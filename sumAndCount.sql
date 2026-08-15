@@ -11,7 +11,7 @@ FROM world
 
 SELECT Distinct continent
 FROM world
-Submit SQLrestore defaultresult
+
 -- 3. GDP of Africa
 -- Give the total GDP of Africa
 
